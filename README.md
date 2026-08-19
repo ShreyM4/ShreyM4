@@ -70,7 +70,7 @@ Built at Hacksagon Hackathon — an AI image provenance system using a StegaStam
 <tr>
 <td width="50%" valign="top">
 
-**[Cricket Scorecard System](https://github.com/ShreyM4/CourtClover)**
+**[Cricket Scorecard System](https://github.com/ShreyM4/CricketGameScorecard)**
 `Java` `Spring Boot` `MongoDB`
 
 Modular Spring Boot REST API managing players, teams, and scalable concurrent live score updates, using MongoDB's schema-less model for sub-second query latency on high-volume match data.
