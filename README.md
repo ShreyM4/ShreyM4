@@ -52,7 +52,7 @@ and deploying containerized solutions with a focus on low-latency performance.
 <tr>
 <td width="50%" valign="top">
 
-**[YTF – Real-Time Social Layer for YouTube](https://github.com/ShreyM4/YTF)**
+**[YTF – Real-Time Social Layer for YouTube](https://github.com/ShreyM4/YouTubeFriends-Extension)**
 `Node.js` `PostgreSQL` `SSE` `Docker`
 
 Chrome extension adding synchronized playback, chat, and a friends system to YouTube. Custom SSE pipeline for <50ms event propagation, 30+ REST endpoints, Discord OAuth2 SSO, self-hosted via Tailscale Funnel with 99.9% uptime.
